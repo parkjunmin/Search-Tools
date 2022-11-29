@@ -141,6 +141,7 @@ ips=10.20.30.1/24^^protocol=https
     │  ├─censys_search.log #存储censys日志
     │  ├─fofa_search.log #存储fofa日志
     │  ├─quake_search.log #存储quake日志
+    │  ├─criminalip.log #存储quake日志
     │  ├─shodan_search.log #存储shodan储日志
     │  ├─zoomeye_search.log #存储zoomeye日志
     │  ├─rapiddns_search.log #存储shodan储日志
